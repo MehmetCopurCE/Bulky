@@ -1,0 +1,30 @@
+------------------- Models -------------------
+ * "Id" and similar words like "CategoryId" will be taken as primary key of the table. We dont need to put
+ [Key] annotation again
+ 
+ * [Required] is a data annotation attribute in ASP.NET MVC used to enforce validation rules on model properties.
+  It indicates that a particular property must have a value; it cannot be null or empty.
+
+
+
+------------------- Views -------------------
+* _ViewStart *
+ViewStart.cshtml is a special file in ASP.NET MVC that contains code to be run at the start of each view.
+It is located in the Views folder and applies to all views within the application unless overridden by a specific view.
+
+* _ViewImports *
+_ViewImports.cshtml is a special file in ASP.NET Core MVC and Razor Pages that contains directives and namespaces to be included in all Razor views and pages.
+It is typically located in the Views folder and can be applied to all views within that folder and its subfolders.
+
+* _Layout *
+_Layout is tha master page of our application and it provides the navbar and footer 
+of our application when we start application
+
+The Layout Page (_layout.cshtml) of a View is used in scenario where there are multiple 
+Views and there is some design which needs to be kept common, let’s say Header and Footer.
+Basically, Layout Page (_layout.cshtml) shares the common design which is shared among all 
+the Views in the project.
+
+* _ValidationScriptsPartial *
+We basically include tha Javascript. It has all javaspcript which will be used in all screens
+We also can add javascripts in each page also which will be used only for that page

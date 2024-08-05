@@ -1,0 +1,16 @@
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.deps.json
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.pdb
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/bin/Debug/net8.0/Bulky.Models.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/bin/Debug/net8.0/Bulky.Models.pdb
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.csproj.AssemblyReference.cache
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfoInputs.cache
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfo.cs
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.csproj.CoreCompileInputs.cache
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.sourcelink.json
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/Bulky.Da.6DBD1FC4.Up2Date
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/refint/Bulky.DataAccess.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.pdb
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.DataAccess/obj/Debug/net8.0/ref/Bulky.DataAccess.dll

@@ -24,4 +24,8 @@
       <Compile Remove="Views\Category\Create.cshtml.cs" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Bulky.DataAccess\Bulky.DataAccess.csproj" />
+    </ItemGroup>
+
 </Project>

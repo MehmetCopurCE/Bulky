@@ -22,10 +22,53 @@
     <ItemGroup>
       <Compile Remove="Views\Category\Delete.cshtml.cs" />
       <Compile Remove="Views\Category\Create.cshtml.cs" />
+      <Compile Remove="Areas\Customer\Data\**" />
+      <Compile Remove="Areas\Customer\Models\**" />
+      <Compile Remove="Areas\Admin\Models\**" />
+      <Compile Remove="Areas\Admin\Data\**" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\Bulky.DataAccess\Bulky.DataAccess.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Controllers\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Areas\Customer\Data\**" />
+      <EmbeddedResource Remove="Areas\Customer\Models\**" />
+      <EmbeddedResource Remove="Areas\Admin\Models\**" />
+      <EmbeddedResource Remove="Areas\Admin\Data\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="Areas\Customer\Data\**" />
+      <Content Remove="Areas\Customer\Models\**" />
+      <Content Remove="Areas\Admin\Models\**" />
+      <Content Remove="Areas\Admin\Data\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Areas\Customer\Data\**" />
+      <None Remove="Areas\Customer\Models\**" />
+      <None Remove="Areas\Admin\Models\**" />
+      <None Remove="Areas\Admin\Data\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <AdditionalFiles Include="Areas\Admin\Views\Category\Create.cshtml" />
+      <AdditionalFiles Include="Areas\Admin\Views\Category\Delete.cshtml" />
+      <AdditionalFiles Include="Areas\Admin\Views\Category\Edit.cshtml" />
+      <AdditionalFiles Include="Areas\Admin\Views\Category\Index.cshtml" />
+      <AdditionalFiles Include="Areas\Customer\Views\Home\Index.cshtml" />
+      <AdditionalFiles Include="Areas\Customer\Views\Home\Privacy.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\Home\Index.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Home\Privacy.cshtml" />
     </ItemGroup>
 
 </Project>

@@ -8,7 +8,7 @@
             </h2>
         </div>
         <div class="col-6 text-end">
-            <a asp-controller="Product" asp-action="Create" class="btn btn-primary">
+            <a asp-controller="Product" asp-action="Upsert" class="btn btn-primary">
                 <i class="bi bi-plus-circle"></i> Add Product
             </a>
         </div>
@@ -18,14 +18,11 @@
 <table class="table table-bordered table-striped">
     <thead>
     <tr>
-        <th>Product Title</th>
-        <th>Product Description</th>
-        <th>Product ISBN</th>
-        <th>Product Author</th>
-        <th>List Price</th>
+        <th>Title</th>
+        <th>ISBN</th>
+        <th>Author</th>
         <th>Price</th>
-        <th>Price 50</th>
-        <th>Price 100</th>
+        <th>Category</th>
         <th></th>
     </tr>
     </thead>
@@ -36,9 +33,7 @@
         <td>
             @obj.Title
         </td>
-        <td class="w-25">
-            @obj.Description
-        </td>
+
         <td>
             @obj.ISBN
         </td>
@@ -49,16 +44,11 @@
             @obj.ListPrice
         </td>
         <td>
-            @obj.Price
+            @obj.CategoryId
         </td>
-        <td>
-            @obj.Price50
-        </td>
-        <td>
-            @obj.Price100
-        </td>
+
         <td class="w-75 btn-group cent" role="group">
-            <a asp-controller="Product" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+            <a asp-controller="Product" asp-action="Upsert" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
                 <i class="bi bi-pencil-square"></i> Edit
             </a>
             <a asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">

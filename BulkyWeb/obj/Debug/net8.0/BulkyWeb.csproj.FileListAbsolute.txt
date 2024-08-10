@@ -283,3 +283,6 @@
 /Users/envest/Documents/GitHub/MVC/Bulky/BulkyWeb/bin/Debug/net8.0/Bulky.Models.dll
 /Users/envest/Documents/GitHub/MVC/Bulky/BulkyWeb/bin/Debug/net8.0/Bulky.DataAccess.pdb
 /Users/envest/Documents/GitHub/MVC/Bulky/BulkyWeb/bin/Debug/net8.0/Bulky.Models.pdb
+/Users/envest/Documents/GitHub/MVC/Bulky/BulkyWeb/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/BulkyWeb/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/BulkyWeb/obj/Debug/net8.0/BulkyWeb.MvcApplicationPartsAssemblyInfo.cs

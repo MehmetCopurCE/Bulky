@@ -35,8 +35,11 @@ public class HomeController : Controller
     
     public IActionResult Details(int productId)
     {
-        Product product = _unitOfWork._productRepository.Get(u => u.Id == productId, includeProperties:"Category");
-
+        var  product = _unitOfWork._productRepository.Get(u => u.Id == productId, includeProperties:"Category");
+        if (product == null)
+        {
+            return NotFound();
+        }
         return View(product);
     }
 

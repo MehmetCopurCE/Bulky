@@ -34,6 +34,7 @@
 
     <ItemGroup>
       <Folder Include="Controllers\" />
+      <Folder Include="wwwroot\images\product\" />
     </ItemGroup>
 
     <ItemGroup>
@@ -48,6 +49,9 @@
       <Content Remove="Areas\Customer\Models\**" />
       <Content Remove="Areas\Admin\Models\**" />
       <Content Remove="Areas\Admin\Data\**" />
+      <Content Remove="wwwroot\images\product\94e6e6c6-7cc8-45c1-9cdb-e7eed2526d2a.png" />
+      <Content Remove="wwwroot\images\product\2599d337-d099-43ae-9122-b88df764cd86.png" />
+      <Content Remove="wwwroot\images\product\5683ff80-82dd-45a8-b168-1daa8b145535.png" />
     </ItemGroup>
 
     <ItemGroup>

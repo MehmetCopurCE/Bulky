@@ -14,7 +14,7 @@ public class Repository<T> : IRepository<T> where T : class
     {
         _db = db;
         this.dbSet = _db.Set<T>();
-        _db.Products.Include(u => u.Category);
+        _db.Products.Include(u => u.Category).Include(u => u.CategoryId);
     }
     public IEnumerable<T> GetAll(string? includeProperties = null)
     {
@@ -34,6 +34,13 @@ public class Repository<T> : IRepository<T> where T : class
     {
         IQueryable<T> query = dbSet;
         query = query.Where(filter);
+        if (!string.IsNullOrEmpty(includeProperties))
+        {
+            foreach (var includeProp in includeProperties.Split(new char[] {','}, StringSplitOptions.RemoveEmptyEntries))
+            {
+                query = query.Include(includeProp);
+            }
+        }
         return query.FirstOrDefault();
     }
 

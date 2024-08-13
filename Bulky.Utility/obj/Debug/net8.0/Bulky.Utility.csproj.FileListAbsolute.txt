@@ -1,0 +1,13 @@
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/bin/Debug/net8.0/Bulky.Utility.deps.json
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/bin/Debug/net8.0/Bulky.Utility.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/bin/Debug/net8.0/Bulky.Utility.pdb
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfoInputs.cache
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfo.cs
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.csproj.CoreCompileInputs.cache
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.sourcelink.json
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/refint/Bulky.Utility.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.pdb
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/ref/Bulky.Utility.dll
+/Users/envest/Documents/GitHub/MVC/Bulky/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.csproj.AssemblyReference.cache

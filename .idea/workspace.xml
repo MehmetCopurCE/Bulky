@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="009dedaa-85b6-4e7b-8edf-1354ea83eaea" name="Changes" comment="Updated Readme.md" />
+    <list default="true" id="009dedaa-85b6-4e7b-8edf-1354ea83eaea" name="Changes" comment="Updated Readme.md">
+      <change beforePath="$PROJECT_DIR$/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulky.Models/obj/Debug/net8.0/Bulky.Models.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bulky.Models/obj/Debug/net8.0/Bulky.Models.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulky.Models/obj/Debug/net8.0/Bulky.Models.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bulky.Models/obj/Debug/net8.0/Bulky.Models.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyWeb/obj/Debug/net8.0/BulkyWeb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyWeb/obj/Debug/net8.0/BulkyWeb.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyWeb/obj/Debug/net8.0/BulkyWeb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyWeb/obj/Debug/net8.0/BulkyWeb.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +23,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2kglSv7SGffaVCyRo1u0JoIrHOj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "mehmet",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/envest/Documents/GitHub/MVC/Bulky"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;mehmet&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/envest/Documents/GitHub/MVC/Bulky&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

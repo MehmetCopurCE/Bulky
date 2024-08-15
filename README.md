@@ -98,6 +98,8 @@ Bu projede **MySQL** veritabanı kullanılmaktadır. Veritabanı işlemleri içi
     dotnet ef database update
     ```
 
+<img src="BulkyWeb/wwwroot/images/AppScreenshots/Ekran Resmi 2024-08-15 15.32.46.png" alt="Solution Structure" width="300"/>
+
 
 ## Kaynaklar
 

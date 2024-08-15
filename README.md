@@ -78,6 +78,12 @@ https://github.com/user-attachments/assets/79b75f9b-94bd-4a18-bc96-0e44a2a0f3d2
 
 <img src="BulkyWeb/wwwroot/images/AppScreenshots/nuget_packages.png" alt="Solution Structure" width="600"/>
 
+## Kaynaklar
+
+Bu projeyi geliştirirken aşağıdaki eğitim kursunu takip ettim:
+
+- **Kurs Adı**: [Introduction to ASP.NET Core MVC (.NET 8)](https://www.youtube.com/watch?v=AopeJjkcRvU)
+  - Bu kurs, ASP.NET Core MVC kullanarak temel ve ileri düzey web uygulamaları geliştirmeyi öğretiyor. Proje yapısından, kimlik doğrulama işlemlerine kadar birçok konuyu kapsıyor.
 
 
 ## İletişim ve Geri Bildirim

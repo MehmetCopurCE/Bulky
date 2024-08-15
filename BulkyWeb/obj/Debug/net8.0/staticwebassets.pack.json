@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/envest/Documents/GitHub/MVC/Bulky/BulkyWeb/wwwroot/images/AppScreenshots/nuget_packages.png",
+      "PackagePath": "staticwebassets/images/AppScreenshots/nuget_packages.png"
+    },
+    {
+      "Id": "/Users/envest/Documents/GitHub/MVC/Bulky/BulkyWeb/wwwroot/images/AppScreenshots/solution_architecture.png",
+      "PackagePath": "staticwebassets/images/AppScreenshots/solution_architecture.png"
+    },
+    {
       "Id": "/Users/envest/Documents/GitHub/MVC/Bulky/BulkyWeb/wwwroot/images/product/34831ef8-5877-420e-8f1c-87f5e53651d2.jpg",
       "PackagePath": "staticwebassets/images/product/34831ef8-5877-420e-8f1c-87f5e53651d2.jpg"
     },

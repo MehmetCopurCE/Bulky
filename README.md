@@ -17,10 +17,10 @@ Bu proje, **Bulky** adlı bir kitap yönetim sistemi olup, **ASP.NET Core 8** ku
 > **Not**: Bu yapıyı görsel olarak açıklamak için dizin yapılarını gösteren ekran görüntülerini ekleyebilirsiniz.
 
 ## Proje Yapısı
-![Solution Structure](BulkyWeb/wwwroot/images/AppScreenshots/nuget_packages.png)
 
 
 ### Solution Yapısı
+![Solution Structure](BulkyWeb/wwwroot/images/AppScreenshots/solution_architecture.png)
 
 
 ## Özellikler
@@ -36,7 +36,7 @@ Bu proje, **Bulky** adlı bir kitap yönetim sistemi olup, **ASP.NET Core 8** ku
 
 1. **Projeyi klonlayın**:
     ```bash
-    git clone https://github.com/kullanıcı-adı/bulky.git
+    git clone https://github.com/MehmetCopurCE/Bulky.git
     ```
 
 2. **Proje dizinine gidin**:
@@ -72,11 +72,8 @@ Bu proje, **Bulky** adlı bir kitap yönetim sistemi olup, **ASP.NET Core 8** ku
 
 ## Kullanılan NuGet Paketleri
 
-- `Microsoft.EntityFrameworkCore`
-- `Microsoft.EntityFrameworkCore.SqlServer`
-- `Microsoft.AspNetCore.Identity.EntityFrameworkCore`
-- `Pomelo.EntityFrameworkCore.MySql`
-- **Diğer paketler**: Projeye dahil ettiğiniz diğer NuGet paketlerini buraya ekleyin.
+![Solution Structure](BulkyWeb/wwwroot/images/AppScreenshots/nuget_packages.png)
+
 
 ## Uygulama Ekran Görüntüleri
 

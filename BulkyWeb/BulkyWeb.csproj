@@ -38,6 +38,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="wwwroot\images\AppScreenshots\" />
       <Folder Include="wwwroot\images\product\" />
     </ItemGroup>
 

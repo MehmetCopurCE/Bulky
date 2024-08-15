@@ -17,6 +17,8 @@ Bu proje, **Bulky** adlı bir kitap yönetim sistemi olup, **ASP.NET Core 8** ku
 > **Not**: Bu yapıyı görsel olarak açıklamak için dizin yapılarını gösteren ekran görüntülerini ekleyebilirsiniz.
 
 ## Proje Yapısı
+![Solution Structure](BulkyWeb/wwwroot/images/AppScreenshots/nuget_packages.png)
+
 
 ### Solution Yapısı
 

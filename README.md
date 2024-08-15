@@ -78,6 +78,27 @@ https://github.com/user-attachments/assets/79b75f9b-94bd-4a18-bc96-0e44a2a0f3d2
 
 <img src="BulkyWeb/wwwroot/images/AppScreenshots/nuget_packages.png" alt="Solution Structure" width="600"/>
 
+## Veritabanı
+
+Bu projede **MySQL** veritabanı kullanılmaktadır. Veritabanı işlemleri için **Entity Framework Core** tercih edilmiştir. Aşağıdaki adımları takip ederek veritabanı yapılandırmasını gerçekleştirebilirsiniz:
+
+1. **Veritabanı Bağlantı Dizesini Güncelleyin**:
+   - `appsettings.json` dosyasındaki `ConnectionStrings` bölümüne MySQL veritabanı bağlantı dizesini ekleyin.
+
+   ```json
+   {
+     "ConnectionStrings": {
+       "DefaultConnection": "server=localhost;database=bulkydb;user=root;password=yourpassword"
+     }
+   }
+2. **Migration Oluşturun ve Veritabanını Güncelleyin**:
+    - Migration işlemleri için aşağıdaki komutları çalıştırın:
+   ```csharp
+    dotnet ef migrations add InitialCreate
+    dotnet ef database update
+    ```
+
+
 ## Kaynaklar
 
 Bu projeyi geliştirirken aşağıdaki eğitim kursunu takip ettim:

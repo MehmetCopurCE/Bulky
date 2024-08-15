@@ -2,6 +2,9 @@
 
 Bu proje, **Bulky** adlı bir kitap yönetim sistemi olup, **ASP.NET Core 8** kullanılarak geliştirilmiş bir MVC uygulamasıdır. Uygulama, kitapları yönetmek için basit bir arayüz sağlar. İki tür kullanıcı mevcuttur: **Admin** ve **Customer**. Admin kullanıcıları kitap ekleyebilir, düzenleyebilir ve silebilirken, Customer kullanıcıları kitapları görüntüleyebilir.
 
+https://github.com/user-attachments/assets/79b75f9b-94bd-4a18-bc96-0e44a2a0f3d2
+
+
 ## Kullanılan Teknolojiler ve Mimariler
 
 - **ASP.NET Core Identity**: Kimlik doğrulama ve kullanıcı yönetimi için kullanılmıştır.
@@ -20,7 +23,8 @@ Bu proje, **Bulky** adlı bir kitap yönetim sistemi olup, **ASP.NET Core 8** ku
 
 
 ### Solution Yapısı
-![Solution Structure](BulkyWeb/wwwroot/images/AppScreenshots/solution_architecture.png)
+<img src="BulkyWeb/wwwroot/images/AppScreenshots/solution_architecture.png" alt="Solution Structure" width="300"/>
+
 
 
 ## Özellikler
@@ -72,17 +76,16 @@ Bu proje, **Bulky** adlı bir kitap yönetim sistemi olup, **ASP.NET Core 8** ku
 
 ## Kullanılan NuGet Paketleri
 
-![Solution Structure](BulkyWeb/wwwroot/images/AppScreenshots/nuget_packages.png)
+<img src="BulkyWeb/wwwroot/images/AppScreenshots/nuget_packages.png" alt="Solution Structure" width="600"/>
 
 
-## Uygulama Ekran Görüntüleri
 
-> Buraya uygulamadan bazı ekran görüntüleri ekleyebilirsin.
+## İletişim ve Geri Bildirim
 
-## Katkıda Bulunma
+Proje hakkında fikirlerinizi veya önerilerinizi paylaşmaktan çekinmeyin. Bana aşağıdaki kanallardan ulaşabilirsiniz:
 
-Katkıda bulunmak isterseniz, lütfen bir **pull request** gönderin. Herhangi bir sorunla karşılaşırsanız, lütfen bir **issue** oluşturun.
 
-## Lisans
+<a href="https://www.linkedin.com/in/mehmet-copur/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" height = "50"/></a> <a href="mailto:mhmtcpr120@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" height = "50"/></a> <a href="https://medium.com/@mhmtcpr120/nette-dependency-injection-transient-scoped-ve-singleton-ya%C5%9Fam-d%C3%B6ng%C3%BCleri-aa9aa4f38193"><img src="https://miro.medium.com/v2/resize:fit:1400/1*RB1rxSK_TBmcC5D2PN30JA.png" height = "50"/></a> 
 
-Bu proje [MIT](https://opensource.org/licenses/MIT) lisansı altında lisanslanmıştır.
+
+Her türlü geri bildiriminiz benim için değerlidir ve projeyi daha iyi hale getirmek için yardımcı olacaktır.
